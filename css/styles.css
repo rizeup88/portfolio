@@ -111,3 +111,136 @@ p {
     left: 47%;
    }
  }
+
+ .mywork {
+ 	position: relative;
+ 	width: 100%;
+ 	padding-top: 2em;
+ 	padding-bottom: 4em;
+ 	background-color: #FFFFFF;
+ }
+
+ .mywork h1 {
+ 	text-align: center;
+ }
+
+ .mywork .carousel {
+ 	margin-top: 2em;
+ }
+
+ .mywork .bd-example {
+ 	margin-top: 2em;
+ }
+
+ .mywork .item-text {
+ 	margin-top: 2em;
+ 	text-align: center;
+ }
+
+ .mywork .item-text h5 {
+ 	color: #002B4C;
+ 	text-align: center;
+ }
+
+ .mywork .container ol {
+ 	margin-bottom: -1em;
+ }
+
+ .mywork .carousel-indicators li.active {
+ 	background-color: #002B4C;
+ }
+
+ .mywork .carousel-indicators li {
+ 	background-color: #002B4C;
+ }
+
+ .aboutme {
+ 	position: relative;
+ 	padding-top: 1em;
+ 	padding-bottom: 1em;
+ }
+
+ .aboutme .container {
+ 	margin-top: 1em;
+ }
+
+ .aboutme h1 {
+ 	text-align: center;
+ }
+
+ .aboutme .card {
+ 	margin-top: 2em;
+ 	border: 1px solid transparent;
+ 	background-color: transparent;
+ }
+
+ .aboutme .card img {
+ 	width: 475px;
+ }
+
+ .aboutme .card .card-body {
+ 	padding-top: 0;
+ 	padding-left: 9em;
+ }
+
+ .education {
+ 	background-image: url(../images/myskills_background.png);
+ 	position: relative;
+ 	padding-top: 2em;
+ 	padding-bottom: 1em;
+ }
+
+ .education h1 {
+ 	color: #FFFFFF;
+ 	text-align: center;
+ }
+
+ .education h2 {
+ 	color: #FFFFFF;
+ 	font-family: "Ubuntu";
+ 	font-weight: 400;
+ 	text-align: left;
+ }
+
+ .education .card {
+ 	border: 1px solid transparent;
+ 	background-color: transparent;
+ }
+
+ .education .card-title {
+ 	color: #FFFFFF;
+ 	font-family: "Ubuntu";
+ }
+
+ .education .card-text {
+ 	color: #FFFFFF;
+ }
+
+ .education .skills {
+ 	color: #FFFFFF;
+ 	float: left;
+ 	padding: 1.25em;
+ }
+
+ .interests {
+ 	position: relative;
+ 	width: 100%;
+ 	padding-top: 2em;
+ 	padding-bottom: 4em;
+ 	background-color: #FFFFFF;
+ }
+
+ .interests h1 {
+ 	text-align: center;
+ }
+
+ .interests .grid-container {
+  	display: grid;
+  	grid-template-columns: auto auto auto;
+  	margin-top: 2em;
+  	padding: 10px;
+}
+
+ .interests .grid-item {
+  	text-align: center;
+}
