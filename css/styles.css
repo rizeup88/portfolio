@@ -1,0 +1,113 @@
+html body {
+	background-color: #D7E0E7;
+	background-size: cover;
+}
+
+h1 {
+	font-family: "Ubuntu";
+	font-size: 32px;
+	color: #002B4C;
+}
+
+p {
+	font-family: "Domus";
+	font-size: 20px;
+	color: #002B4C;
+	margin-top: -2.6em;
+    margin-left: -0em;
+    top: 0em;
+    left: 45.5%;
+}
+
+.navbar {
+	position: sticky;
+	font-family: "Ubuntu";
+}
+
+.navbar ul {
+	color: #002B4C;
+	font-size: 16px;
+}
+
+.landing {
+	background-image: url(../images/Portland_Skyline-Home_Page_2.png);
+	background-size: cover;
+    padding-bottom: 7em;
+}
+
+.landing .container {
+	position: relative;
+	max-width: 100%;
+}
+
+.landing .heroimage {
+	position: relative;
+	max-width: 100%;
+	padding: 0em 0em 0em 12em;
+	vertical-align: top;
+}
+
+.heroimage img {
+	position:relative;
+  	width: 100%;
+}
+
+@media screen and (min-width: 1025px) {
+   .heroimage img {
+    max-width: 480px;
+    margin-top: 10em;
+    margin-left: -27.9em;
+    top: 0em;
+    left: 45.5%;
+   }
+ }
+
+.heroimage a {
+	text-decoration: none;
+}
+
+.heroimage p {
+	margin-top: -2.6em;
+	text-transform: uppercase;
+	position:relative;
+  	width: 100%;
+  	font-size: 55px;
+}
+
+.landing .herotext {
+	max-width: 100%;
+	text-align: center;
+}
+
+ .herotext h1 {
+  position:relative;
+  width: 100%
+ }
+
+ @media screen and (min-width: 1025px) {
+  .herotext h1 {
+    font-size: 42px;
+    max-width: 700px;
+    margin-top: 3.5em;
+    margin-left: -6.8em;
+    top: 0em;
+    left: 47%;
+  }
+ }
+
+ .landing .herotext p {
+  position:relative;
+  width: 100%;
+  font-size: 18px;
+}
+
+@media screen and (min-width: 1025px) {
+   .landing .herotext p {
+    font-size: 26px;
+    max-width: 700px;
+    margin-top: 20px;
+    margin-left: -11em;
+    top: 0em;
+    left: 47%;
+   }
+ }
