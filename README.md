@@ -10,6 +10,6 @@
 
 ### License: MIT Open Source
 
-## Access link: https://github.com/rizeup88/portfolio
+## Access link: https://rizeup88.github.io/portfolio/
 
 Copyright (C) 2019 Chase J. Smith
